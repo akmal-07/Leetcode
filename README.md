@@ -30,6 +30,7 @@ A collection of LeetCode questions that I solved
 | [0189-rotate-array](https://github.com/akmal-07/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/akmal-07/Leetcode/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/akmal-07/Leetcode/tree/master/0319-bulb-switcher) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/akmal-07/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3697-compute-decimal-representation](https://github.com/akmal-07/Leetcode/tree/master/3697-compute-decimal-representation) |
 ## Binary Search
 |  |
@@ -55,4 +56,8 @@ A collection of LeetCode questions that I solved
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/akmal-07/Leetcode/tree/master/0319-bulb-switcher) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/akmal-07/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
