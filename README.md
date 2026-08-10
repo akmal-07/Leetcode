@@ -5,6 +5,7 @@ A collection of LeetCode questions that I solved
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/akmal-07/Leetcode/tree/master/0053-maximum-subarray) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/akmal-07/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/akmal-07/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/akmal-07/Leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/akmal-07/Leetcode/tree/master/0414-third-maximum-number) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions that I solved
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/akmal-07/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/akmal-07/Leetcode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -45,6 +47,7 @@ A collection of LeetCode questions that I solved
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/akmal-07/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/akmal-07/Leetcode/tree/master/0189-rotate-array) |
 ## Divide and Conquer
 |  |
