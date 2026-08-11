@@ -4,6 +4,7 @@ A collection of LeetCode questions that I solved
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/akmal-07/Leetcode/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/akmal-07/Leetcode/tree/master/0053-maximum-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akmal-07/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/akmal-07/Leetcode/tree/master/0189-rotate-array) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions that I solved
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/akmal-07/Leetcode/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/akmal-07/Leetcode/tree/master/0268-missing-number) |
 | [3731-find-missing-elements](https://github.com/akmal-07/Leetcode/tree/master/3731-find-missing-elements) |
 ## Math
