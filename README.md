@@ -5,6 +5,7 @@ A collection of LeetCode questions that I solved
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/akmal-07/Leetcode/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/akmal-07/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/akmal-07/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/akmal-07/Leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akmal-07/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions that I solved
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/akmal-07/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akmal-07/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/akmal-07/Leetcode/tree/master/0268-missing-number) |
 ## Bit Manipulation
