@@ -6,6 +6,7 @@ A collection of LeetCode questions that I solved
 | ------- |
 | [0001-two-sum](https://github.com/akmal-07/Leetcode/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/akmal-07/Leetcode/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/akmal-07/Leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akmal-07/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/akmal-07/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/akmal-07/Leetcode/tree/master/0268-missing-number) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions that I solved
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/akmal-07/Leetcode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/akmal-07/Leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/akmal-07/Leetcode/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/akmal-07/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions that I solved
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/akmal-07/Leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akmal-07/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/akmal-07/Leetcode/tree/master/0189-rotate-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/akmal-07/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -74,4 +77,12 @@ A collection of LeetCode questions that I solved
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/akmal-07/Leetcode/tree/master/0342-power-of-four) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/akmal-07/Leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/akmal-07/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
