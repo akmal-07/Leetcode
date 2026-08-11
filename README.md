@@ -15,6 +15,7 @@ A collection of LeetCode questions that I solved
 | [0485-max-consecutive-ones](https://github.com/akmal-07/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/akmal-07/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/akmal-07/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1550-three-consecutive-odds](https://github.com/akmal-07/Leetcode/tree/master/1550-three-consecutive-odds) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/akmal-07/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3697-compute-decimal-representation](https://github.com/akmal-07/Leetcode/tree/master/3697-compute-decimal-representation) |
 | [3731-find-missing-elements](https://github.com/akmal-07/Leetcode/tree/master/3731-find-missing-elements) |
