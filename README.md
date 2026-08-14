@@ -38,6 +38,7 @@ A collection of LeetCode questions that I solved
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/akmal-07/Leetcode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/akmal-07/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/akmal-07/Leetcode/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/akmal-07/Leetcode/tree/master/0319-bulb-switcher) |
