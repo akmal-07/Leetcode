@@ -18,6 +18,7 @@ A collection of LeetCode questions that I solved
 | [0704-binary-search](https://github.com/akmal-07/Leetcode/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/akmal-07/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/akmal-07/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1480-running-sum-of-1d-array](https://github.com/akmal-07/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1550-three-consecutive-odds](https://github.com/akmal-07/Leetcode/tree/master/1550-three-consecutive-odds) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/akmal-07/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3697-compute-decimal-representation](https://github.com/akmal-07/Leetcode/tree/master/3697-compute-decimal-representation) |
@@ -100,4 +101,8 @@ A collection of LeetCode questions that I solved
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/akmal-07/Leetcode/tree/master/0344-reverse-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/akmal-07/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
