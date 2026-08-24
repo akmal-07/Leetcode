@@ -7,6 +7,7 @@ A collection of LeetCode questions that I solved
 | [0001-two-sum](https://github.com/akmal-07/Leetcode/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/akmal-07/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/akmal-07/Leetcode/tree/master/0053-maximum-subarray) |
+| [0074-search-a-2d-matrix](https://github.com/akmal-07/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/akmal-07/Leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akmal-07/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/akmal-07/Leetcode/tree/master/0189-rotate-array) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions that I solved
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/akmal-07/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/akmal-07/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akmal-07/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/akmal-07/Leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/akmal-07/Leetcode/tree/master/0704-binary-search) |
@@ -105,4 +107,8 @@ A collection of LeetCode questions that I solved
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/akmal-07/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/akmal-07/Leetcode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
