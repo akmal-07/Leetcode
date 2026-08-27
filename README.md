@@ -31,6 +31,7 @@ A collection of LeetCode questions that I solved
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/akmal-07/Leetcode/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/akmal-07/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/akmal-07/Leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/akmal-07/Leetcode/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/akmal-07/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions that I solved
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/akmal-07/Leetcode/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/akmal-07/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/akmal-07/Leetcode/tree/master/0268-missing-number) |
 | [3731-find-missing-elements](https://github.com/akmal-07/Leetcode/tree/master/3731-find-missing-elements) |
 ## Math
@@ -107,6 +109,7 @@ A collection of LeetCode questions that I solved
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/akmal-07/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/akmal-07/Leetcode/tree/master/0344-reverse-string) |
 ## Prefix Sum
 |  |
