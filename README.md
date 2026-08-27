@@ -12,6 +12,7 @@ A collection of LeetCode questions that I solved
 | [0075-sort-colors](https://github.com/akmal-07/Leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akmal-07/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/akmal-07/Leetcode/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/akmal-07/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/akmal-07/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/akmal-07/Leetcode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/akmal-07/Leetcode/tree/master/0414-third-maximum-number) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions that I solved
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/akmal-07/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/akmal-07/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Matrix
 |  |
