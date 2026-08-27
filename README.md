@@ -25,6 +25,7 @@ A collection of LeetCode questions that I solved
 | [1480-running-sum-of-1d-array](https://github.com/akmal-07/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1550-three-consecutive-odds](https://github.com/akmal-07/Leetcode/tree/master/1550-three-consecutive-odds) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/akmal-07/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/akmal-07/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3697-compute-decimal-representation](https://github.com/akmal-07/Leetcode/tree/master/3697-compute-decimal-representation) |
 | [3731-find-missing-elements](https://github.com/akmal-07/Leetcode/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -111,6 +112,7 @@ A collection of LeetCode questions that I solved
 | ------- |
 | [0242-valid-anagram](https://github.com/akmal-07/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/akmal-07/Leetcode/tree/master/0344-reverse-string) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/akmal-07/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -121,4 +123,8 @@ A collection of LeetCode questions that I solved
 | ------- |
 | [0048-rotate-image](https://github.com/akmal-07/Leetcode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/akmal-07/Leetcode/tree/master/0074-search-a-2d-matrix) |
+## Simulation
+|  |
+| ------- |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/akmal-07/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->
