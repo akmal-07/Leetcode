@@ -7,6 +7,7 @@ A collection of LeetCode questions that I solved
 | [0001-two-sum](https://github.com/akmal-07/Leetcode/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/akmal-07/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/akmal-07/Leetcode/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/akmal-07/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/akmal-07/Leetcode/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/akmal-07/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/akmal-07/Leetcode/tree/master/0075-sort-colors) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions that I solved
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/akmal-07/Leetcode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/akmal-07/Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/akmal-07/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/akmal-07/Leetcode/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/akmal-07/Leetcode/tree/master/0319-bulb-switcher) |
@@ -114,5 +116,6 @@ A collection of LeetCode questions that I solved
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/akmal-07/Leetcode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/akmal-07/Leetcode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
