@@ -44,6 +44,7 @@ A collection of LeetCode questions that I solved
 | [0001-two-sum](https://github.com/akmal-07/Leetcode/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/akmal-07/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/akmal-07/Leetcode/tree/master/0268-missing-number) |
+| [2351-first-letter-to-appear-twice](https://github.com/akmal-07/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/akmal-07/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3731-find-missing-elements](https://github.com/akmal-07/Leetcode/tree/master/3731-find-missing-elements) |
 ## Math
@@ -72,6 +73,7 @@ A collection of LeetCode questions that I solved
 | ------- |
 | [0268-missing-number](https://github.com/akmal-07/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/akmal-07/Leetcode/tree/master/0342-power-of-four) |
+| [2351-first-letter-to-appear-twice](https://github.com/akmal-07/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Two Pointers
 |  |
 | ------- |
@@ -116,6 +118,7 @@ A collection of LeetCode questions that I solved
 | [0344-reverse-string](https://github.com/akmal-07/Leetcode/tree/master/0344-reverse-string) |
 | [1446-consecutive-characters](https://github.com/akmal-07/Leetcode/tree/master/1446-consecutive-characters) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/akmal-07/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2351-first-letter-to-appear-twice](https://github.com/akmal-07/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/akmal-07/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Prefix Sum
 |  |
@@ -135,5 +138,6 @@ A collection of LeetCode questions that I solved
 ## Counting
 |  |
 | ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/akmal-07/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/akmal-07/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 <!---LeetCode Topics End-->
