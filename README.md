@@ -68,6 +68,7 @@ A collection of LeetCode questions that I solved
 | [0074-search-a-2d-matrix](https://github.com/akmal-07/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akmal-07/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/akmal-07/Leetcode/tree/master/0268-missing-number) |
+| [0374-guess-number-higher-or-lower](https://github.com/akmal-07/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/akmal-07/Leetcode/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
@@ -141,4 +142,8 @@ A collection of LeetCode questions that I solved
 | ------- |
 | [2351-first-letter-to-appear-twice](https://github.com/akmal-07/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/akmal-07/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/akmal-07/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
