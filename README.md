@@ -58,6 +58,7 @@ A collection of LeetCode questions that I solved
 | [0319-bulb-switcher](https://github.com/akmal-07/Leetcode/tree/master/0319-bulb-switcher) |
 | [0342-power-of-four](https://github.com/akmal-07/Leetcode/tree/master/0342-power-of-four) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/akmal-07/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2769-find-the-maximum-achievable-number](https://github.com/akmal-07/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/akmal-07/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3697-compute-decimal-representation](https://github.com/akmal-07/Leetcode/tree/master/3697-compute-decimal-representation) |
 ## Binary Search
