@@ -122,6 +122,7 @@ A collection of LeetCode questions that I solved
 | [1446-consecutive-characters](https://github.com/akmal-07/Leetcode/tree/master/1446-consecutive-characters) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/akmal-07/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2351-first-letter-to-appear-twice](https://github.com/akmal-07/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [3498-reverse-degree-of-a-string](https://github.com/akmal-07/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/akmal-07/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Prefix Sum
 |  |
@@ -138,6 +139,7 @@ A collection of LeetCode questions that I solved
 |  |
 | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/akmal-07/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3498-reverse-degree-of-a-string](https://github.com/akmal-07/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Counting
 |  |
 | ------- |
