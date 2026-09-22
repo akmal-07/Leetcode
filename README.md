@@ -120,6 +120,7 @@ A collection of LeetCode questions that I solved
 | ------- |
 | [0242-valid-anagram](https://github.com/akmal-07/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/akmal-07/Leetcode/tree/master/0344-reverse-string) |
+| [0649-dota2-senate](https://github.com/akmal-07/Leetcode/tree/master/0649-dota2-senate) |
 | [1446-consecutive-characters](https://github.com/akmal-07/Leetcode/tree/master/1446-consecutive-characters) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/akmal-07/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2351-first-letter-to-appear-twice](https://github.com/akmal-07/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
@@ -162,4 +163,9 @@ A collection of LeetCode questions that I solved
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/akmal-07/Leetcode/tree/master/0622-design-circular-queue) |
+| [0649-dota2-senate](https://github.com/akmal-07/Leetcode/tree/master/0649-dota2-senate) |
+## Greedy
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/akmal-07/Leetcode/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
