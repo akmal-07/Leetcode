@@ -19,6 +19,7 @@ A collection of LeetCode questions that I solved
 | [0414-third-maximum-number](https://github.com/akmal-07/Leetcode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/akmal-07/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0622-design-circular-queue](https://github.com/akmal-07/Leetcode/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/akmal-07/Leetcode/tree/master/0641-design-circular-deque) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/akmal-07/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0704-binary-search](https://github.com/akmal-07/Leetcode/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/akmal-07/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -155,15 +156,18 @@ A collection of LeetCode questions that I solved
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/akmal-07/Leetcode/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/akmal-07/Leetcode/tree/master/0641-design-circular-deque) |
 ## Design
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/akmal-07/Leetcode/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/akmal-07/Leetcode/tree/master/0641-design-circular-deque) |
 | [0933-number-of-recent-calls](https://github.com/akmal-07/Leetcode/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/akmal-07/Leetcode/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/akmal-07/Leetcode/tree/master/0641-design-circular-deque) |
 | [0649-dota2-senate](https://github.com/akmal-07/Leetcode/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/akmal-07/Leetcode/tree/master/0933-number-of-recent-calls) |
 ## Greedy
