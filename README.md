@@ -159,13 +159,19 @@ A collection of LeetCode questions that I solved
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/akmal-07/Leetcode/tree/master/0622-design-circular-queue) |
+| [0933-number-of-recent-calls](https://github.com/akmal-07/Leetcode/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/akmal-07/Leetcode/tree/master/0622-design-circular-queue) |
 | [0649-dota2-senate](https://github.com/akmal-07/Leetcode/tree/master/0649-dota2-senate) |
+| [0933-number-of-recent-calls](https://github.com/akmal-07/Leetcode/tree/master/0933-number-of-recent-calls) |
 ## Greedy
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/akmal-07/Leetcode/tree/master/0649-dota2-senate) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/akmal-07/Leetcode/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
