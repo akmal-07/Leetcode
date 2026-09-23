@@ -30,6 +30,7 @@ A collection of LeetCode questions that I solved
 | [1732-find-the-highest-altitude](https://github.com/akmal-07/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/akmal-07/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/akmal-07/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2073-time-needed-to-buy-tickets](https://github.com/akmal-07/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [3697-compute-decimal-representation](https://github.com/akmal-07/Leetcode/tree/master/3697-compute-decimal-representation) |
 | [3731-find-missing-elements](https://github.com/akmal-07/Leetcode/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -142,6 +143,7 @@ A collection of LeetCode questions that I solved
 |  |
 | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/akmal-07/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2073-time-needed-to-buy-tickets](https://github.com/akmal-07/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [3498-reverse-degree-of-a-string](https://github.com/akmal-07/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Counting
 |  |
@@ -170,6 +172,7 @@ A collection of LeetCode questions that I solved
 | [0641-design-circular-deque](https://github.com/akmal-07/Leetcode/tree/master/0641-design-circular-deque) |
 | [0649-dota2-senate](https://github.com/akmal-07/Leetcode/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/akmal-07/Leetcode/tree/master/0933-number-of-recent-calls) |
+| [2073-time-needed-to-buy-tickets](https://github.com/akmal-07/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Greedy
 |  |
 | ------- |
