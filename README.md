@@ -109,6 +109,7 @@ A collection of LeetCode questions that I solved
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/akmal-07/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0342-power-of-four](https://github.com/akmal-07/Leetcode/tree/master/0342-power-of-four) |
 ## Quicksort
 |  |
@@ -158,6 +159,7 @@ A collection of LeetCode questions that I solved
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/akmal-07/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0622-design-circular-queue](https://github.com/akmal-07/Leetcode/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/akmal-07/Leetcode/tree/master/0641-design-circular-deque) |
 | [0876-middle-of-the-linked-list](https://github.com/akmal-07/Leetcode/tree/master/0876-middle-of-the-linked-list) |
