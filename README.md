@@ -88,6 +88,7 @@ A collection of LeetCode questions that I solved
 | [0189-rotate-array](https://github.com/akmal-07/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/akmal-07/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/akmal-07/Leetcode/tree/master/0344-reverse-string) |
+| [0876-middle-of-the-linked-list](https://github.com/akmal-07/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/akmal-07/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
@@ -159,6 +160,7 @@ A collection of LeetCode questions that I solved
 | ------- |
 | [0622-design-circular-queue](https://github.com/akmal-07/Leetcode/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/akmal-07/Leetcode/tree/master/0641-design-circular-deque) |
+| [0876-middle-of-the-linked-list](https://github.com/akmal-07/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Design
 |  |
 | ------- |
